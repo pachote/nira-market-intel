@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "nira-market-intel"
-version = "1.0.0"
+version = "1.0.1"
 description = "Competitor research for Claude — SEO analysis, rank tracking, and market intelligence"
 readme = "README.md"
 requires-python = ">=3.11"

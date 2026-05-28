@@ -1,5 +1,9 @@
 # NIRA Market Intel MCP
 
+<!-- mcp-name: io.github.pachote/nira-market-intel -->
+
+mcp-name: io.github.pachote/nira-market-intel
+
 > Competitor research for Claude — SEO analysis, rank tracking, and market intelligence
 
 [![PyPI version](https://badge.fury.io/py/nira-market-intel.svg)](https://pypi.org/project/nira-market-intel/)
