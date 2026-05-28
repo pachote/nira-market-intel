@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pachote/nira-market-intel",
+  "title": "NIRA Market Intel MCP",
+  "description": "Competitor research for Claude \u2014 SEO analysis, rank tracking, and market intelligence",
+  "repository": {
+    "url": "https://github.com/pachote/nira-market-intel",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "nira-market-intel",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": []
+    }
+  ]
+}
